@@ -27,5 +27,4 @@
         </div>
     </section>
 </body>
-</html># miracles-landing-page
-MIracLes 
+</html># ForSure..tm
